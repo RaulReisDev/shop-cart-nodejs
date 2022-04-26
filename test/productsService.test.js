@@ -1,4 +1,4 @@
-const { getAllProducts } = require('../services/productsService')
+const { getAllProducts } = require('../src/api/services/productsService')
 const chai = require('chai');
 
 describe('Products', () => {

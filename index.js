@@ -12,8 +12,8 @@ let corsOptions = {
 app.use(cors(corsOptions));
 
 // Import Routes
-const authRoute = require("./routes/authRoute");
-const productRoute = require("./routes/productsRoute");
+const authRoute = require("./src/api/routes/authRoute");
+const productRoute = require("./src/api/routes/productsRoute");
 
 // BodyParser Middleware
 app.use(express.json());

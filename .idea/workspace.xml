@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14bffba5-085d-4830-aef5-da662b1d17b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shop-cart-nodejs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/authController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/productsController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/productsModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/authRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/productsRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/productsService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/productsService.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/authController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/controllers/authController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/productsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/controllers/productsController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/productsModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/models/productsModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/routes/authRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/productsRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/routes/productsRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/productsService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/services/productsService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/productsService.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/productsService.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raul Reis/Desktop/Projects/shop-cart-nodejs&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Raul Reis/Desktop/Projetos/shop-cart-nodejs",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raul Reis\Desktop\Projetos\shop-cart-nodejs\src\api" />
+      <recent name="C:\Users\Raul Reis\Desktop\Projetos\shop-cart-nodejs\src" />
       <recent name="C:\Users\Raul Reis\Desktop\Projects\shop-cart-nodejs\test" />
     </key>
   </component>
@@ -70,6 +68,7 @@
       <workItem from="1650568492336" duration="7436000" />
       <workItem from="1650740495541" duration="502000" />
       <workItem from="1650816605488" duration="597000" />
+      <workItem from="1650980275242" duration="167000" />
     </task>
     <servers />
   </component>
